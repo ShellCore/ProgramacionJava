@@ -10,3 +10,4 @@ En éste repositorio se van a almacenar todos los ejercicios que se generen dent
 2. Argumentos variables
 3. Enumeraciones
 4. Bloques de código
+5. Manejo de For Each
