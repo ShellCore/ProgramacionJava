@@ -15,3 +15,4 @@ En éste repositorio se van a almacenar todos los ejercicios que se generen dent
 7. Modificadores de acceso
 8. Sobreescritura de métodos
 9. Polimorfismo
+10. Manejo de la palabra InstanceOf
