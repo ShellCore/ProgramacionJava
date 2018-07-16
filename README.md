@@ -19,3 +19,4 @@ En éste repositorio se van a almacenar todos los ejercicios que se generen dent
 11. Conversión de objetos (casting)
 12. Clase Object
 13. Clases abstractas
+14. Interfaces
