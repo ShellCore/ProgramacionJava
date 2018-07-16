@@ -7,3 +7,4 @@ En éste repositorio se van a almacenar todos los ejercicios que se generen dent
 ## Ejercicios
 
 1. Manejo de JavaDoc
+2. Argumentos variables
