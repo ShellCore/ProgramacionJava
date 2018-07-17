@@ -26,3 +26,5 @@ En éste repositorio se van a almacenar todos los ejercicios que se generen dent
 18. Colecciones
 19. Genéricos
 20. Colecciones Genéricas
+21. Propiedades del Sistema
+22. Entrada y salida de datos
