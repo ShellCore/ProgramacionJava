@@ -30,3 +30,4 @@ En éste repositorio se van a almacenar todos los ejercicios que se generen dent
 22. Entrada y salida de datos
 23. Manejo de la clase Scanner
 24. Calculadora de entrada de datos
+25. Manejo de archivos
